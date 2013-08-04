@@ -1,0 +1,1 @@
+This project create a script to create a scaffold in Zend Framework 1
