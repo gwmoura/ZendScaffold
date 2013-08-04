@@ -1,4 +1,4 @@
-<h1>Description</h1>
+﻿<h1>Description</h1>
 This project create a script to create a scaffold in Zend Framework 1
 
 in moment i create script to windows
