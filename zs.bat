@@ -4,10 +4,6 @@ REM zf show version
 
 GOTO RUN
 
-:MSG
-echo "geo <name> <module>"
-GOTO FIM
-
 :RUN
 php %PHP_DIR%\zf.php create controller %1 1 %2
 
@@ -32,3 +28,6 @@ ECHO.
 echo -----------------------------------------------------
 ECHO.
 echo Process Sucessfull. The Controller %1, Actions [index, edit, update, delete, new, create], Form %1, Model %1  are created in Module %2
+
+:MSG
+echo zs [controller] [module]
