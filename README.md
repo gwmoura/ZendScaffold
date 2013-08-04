@@ -17,3 +17,9 @@ copy zs.bat to your PHP_DIR
 in your project dir
 
 [PHP_DIR]/zs [controller] [module]
+
+<h1>Contribuintion</h1>
+
+<h3>For .bat</h3>
+
+to contribute you get the tutorial by .bat files in <a href="http://www.devmedia.com.br/introducao-a-arquivos-bat-e-programacao-em-lotes/24800">http://www.devmedia.com.br/introducao-a-arquivos-bat-e-programacao-em-lotes/24800</a> and send a e-mail 
