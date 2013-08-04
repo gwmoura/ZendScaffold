@@ -19,6 +19,7 @@ Add Zend Framework scripts (zf.bat, zf.php) in your PHP dir
 copy zs.bat to your PHP dir
 
 <b>for linux - need test</b>
+
 copy zs.sh to your PHP dir
 
 <h1>Using</h1>
