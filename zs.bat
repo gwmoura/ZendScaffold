@@ -13,7 +13,7 @@ GOTO RUN
 
 php %PHP_DIR%\zf.php create controller %1 1 %2
 
-php %PHP_DIR%\zf.php create action list %1 1 %2
+php %PHP_DIR%\zf.php create action "list" %1 1 %2
 
 php %PHP_DIR%\zf.php create action edit %1 1 %2
 
@@ -24,6 +24,8 @@ php %PHP_DIR%\zf.php create action delete %1 1 %2
 php %PHP_DIR%\zf.php create action new %1 1 %2
 
 php %PHP_DIR%\zf.php create action create %1 1 %2
+
+php %PHP_DIR%\zf.php create action search %1 1 %2
 
 
 php %PHP_DIR%\zf.php create form %1 %2
