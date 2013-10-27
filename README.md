@@ -5,6 +5,9 @@ The Linux script need to test
 
 <h1>Intallation</h1>
 
+
+<b>for windows</b>
+
 <ol>
 <li>
 Add your PHP dir in your computer environment variable
@@ -12,15 +15,24 @@ Add your PHP dir in your computer environment variable
 <li>
 Add Zend Framework scripts (zf.bat, zf.php) in your PHP dir
 </li>
+<li>
+Copy zs.bat to your PHP dir
+</li>
 </ol>
 
-<b>for windows</b>
+<b>for linux</b>
 
-copy zs.bat to your PHP dir
-
-<b>for linux - need test</b>
-
-copy zs.sh to your PHP dir
+<ol>
+<li>
+Copy Zend Framework scripts (zf.sh, zf.php) to /usr/bin/
+</li>
+<li>
+Copy zs.sh to /usr/bin/
+</li>
+<li>
+Add execute permission in properties of zs.sh ou using command
+</li>
+</ol>
 
 <h1>Using</h1>
 
